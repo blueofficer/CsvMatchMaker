@@ -1,0 +1,11 @@
+teams[0] = Red 1
+
+teams[1] = Red 2
+
+teams[2] = Red 3
+
+teams[3] = Blue 1
+
+teams[4] = Blue 2
+
+teams[5] = Blue 3
